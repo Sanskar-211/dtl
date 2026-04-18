@@ -5,19 +5,22 @@ Attendance Tracker is a full-stack web application , fully responsive, fully dyn
 ## Project Website 's output pages  :
 Subjects Page:
 
-<img width="3877" height="928" alt="subjects_page" src="https://github.com/user-attachments/assets/00139356-a74f-4919-b0c9-60a4ba9e469c" />
+<img width="1905" height="887" alt="Screenshot 2026-04-16 211831" src="https://github.com/user-attachments/assets/9225b75e-afff-4b6b-84cb-7717a4aca517" />
+<img width="1907" height="910" alt="Screenshot 2026-04-18 145459" src="https://github.com/user-attachments/assets/d4f03063-6e83-4613-9530-77b946c5745a" />
+
 
 Timetable Page:
-
-<img width="3843" height="909" alt="timetable_page" src="https://github.com/user-attachments/assets/2aa71ef2-e4a0-4a56-a566-988e49911eea" />
+<img width="1909" height="903" alt="Screenshot 2026-04-18 145518" src="https://github.com/user-attachments/assets/694f881d-cdc3-4a5d-84d7-de0d2274577e" />
+<img width="1896" height="897" alt="Screenshot 2026-04-18 145532" src="https://github.com/user-attachments/assets/a50d6be6-9ada-41cc-a3ec-4e2ee5821d84" />
 
 Today 's lecture Page:
-
-<img width="3855" height="905" alt="todays_lectures_page" src="https://github.com/user-attachments/assets/cd72b61e-46a4-4099-beb2-c36f3bebda7b" />
+<img width="1908" height="899" alt="Screenshot 2026-04-18 145547" src="https://github.com/user-attachments/assets/1eb577fb-56ed-4e6a-99ee-3e14f6535755" />
+<img width="1915" height="896" alt="Screenshot 2026-04-18 145602" src="https://github.com/user-attachments/assets/cc84175b-4413-44d6-963a-ab46a50f3320" />
 
 Stats Page:
+<img width="1894" height="911" alt="Screenshot 2026-04-18 145627" src="https://github.com/user-attachments/assets/cb64506a-1b6c-4d90-b2fb-c2a424490a4a" />
+<img width="1871" height="884" alt="Screenshot 2026-04-18 145639" src="https://github.com/user-attachments/assets/4264e512-3011-4d66-a382-70671c5bd657" />
 
-<img width="3848" height="917" alt="stats_page" src="https://github.com/user-attachments/assets/48c648ca-af31-493a-a87f-f390c7345966" />
 
 
 ## What This Project Does
