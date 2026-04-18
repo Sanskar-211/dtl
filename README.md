@@ -2,6 +2,24 @@
 
 Attendance Tracker is a full-stack web application , fully responsive, fully dynamic built on top of javascript.It can be used for students to track their college attendance and visualize the data in the form of charts.
 
+## Project Website 's output pages  :
+Subjects Page:
+
+<img width="3877" height="928" alt="subjects_page" src="https://github.com/user-attachments/assets/00139356-a74f-4919-b0c9-60a4ba9e469c" />
+
+Timetable Page:
+
+<img width="3843" height="909" alt="timetable_page" src="https://github.com/user-attachments/assets/2aa71ef2-e4a0-4a56-a566-988e49911eea" />
+
+Today 's lecture Page:
+
+<img width="3855" height="905" alt="todays_lectures_page" src="https://github.com/user-attachments/assets/cd72b61e-46a4-4099-beb2-c36f3bebda7b" />
+
+Stats Page:
+
+<img width="3848" height="917" alt="stats_page" src="https://github.com/user-attachments/assets/48c648ca-af31-493a-a87f-f390c7345966" />
+
+
 ## What This Project Does
 
 - Helps students track subject-wise attendance from a single dashboard.
